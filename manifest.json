@@ -1,0 +1,22 @@
+{
+  "name": "GBSBFORYOU Digital Gurukul",
+  "short_name": "Digital Gurukul",
+  "description": "Mobile First Digital Learning Ecosystem",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
